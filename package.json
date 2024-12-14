@@ -10,7 +10,7 @@
   "version": "4.15.1",
   "repository": {
     "type": "git",
-    "url": "git://github.com/giovangenerali/ytdl-core.git"
+    "url": "git://github.com/giovanigenerali/ytdl-core"
   },
   "author": "Skick (https://github.com/skick1234)",
   "contributors": [
