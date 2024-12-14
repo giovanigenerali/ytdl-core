@@ -36,6 +36,7 @@
     "http-cookie-agent": "^6.0.6",
     "m3u8stream": "^0.8.6",
     "miniget": "^4.2.3",
+    "pnpm": "^9.15.0",
     "sax": "^1.4.1",
     "tough-cookie": "^4.1.4",
     "undici": "five"

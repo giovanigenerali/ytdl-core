@@ -1,12 +1,8 @@
 name: Publish @giovangenerali/ytdl-core
-
 on:
-  workflow_dispatch:
   push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
-
+    tags:
+      - "*"
 jobs:
   publish:
     name: Build & Publish
