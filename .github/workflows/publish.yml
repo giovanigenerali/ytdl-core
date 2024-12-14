@@ -1,4 +1,4 @@
-name: Publish @giovangenerali/ytdl-core
+name: Publish NPM
 on:
   push:
     tags:
